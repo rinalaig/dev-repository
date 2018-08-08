@@ -1,0 +1,51 @@
+
+body {
+	/*background-image: url(../images/bg.jpeg);*/
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+	font-family: 'Cinzel', serif;
+	background-image: url(../images/p2.png);
+	background-color: #0070c9;
+}
+
+h1 {
+	font-size: 50px;
+	margin-bottom: 0;
+	/*background-color:  #333;*/
+	text-transform: uppercase;
+	font-family: 'Cinzel', serif;
+	letter-spacing: 3px;
+
+}
+
+h2 {
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	color: yellow;
+}
+
+#me {
+	height: 180px;
+	border-radius: 50%;
+	width: 200px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #3b5998;
+	margin-top: 50px;
+}
+
+.about {
+	width: 100%
+	font-size: 18px;
+	line-height: 1.5;
+	background-color: rgba(51,51,51,0.25);
+	font-family: 'Cinzel', serif;
+}
+
+.container {
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+
+}
